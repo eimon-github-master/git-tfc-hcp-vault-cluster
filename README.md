@@ -1,5 +1,4 @@
 # github token - 
-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
 # Logiin
 gh auth login --with-token <<<
 # check status
